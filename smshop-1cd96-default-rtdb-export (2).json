@@ -1,0 +1,151 @@
+{
+  "categories": {
+    "-NPXCR9ovtasd90xGgn4": {
+      "categoryName": "Quả"
+    },
+    "-NPXoazd1rpadJ5EFt5V": {
+      "categoryName": "Giỏ Hoa Quả"
+    },
+    "-NPXpFX_a1pObIwkiESK": {
+      "categoryName": "Táo mỹ"
+    },
+    "-NPXpJ7Ll7v7VDFoahxZ": {
+      "categoryName": "Hoa Tươi"
+    }
+  },
+  "order_details": {
+    "-NPXkq_WBl4lVBeA_qQn": {
+      "order_id": "-NPXkqX5bNj65gKp9thm",
+      "product_id": "-NPXF1bTPlfcwg5t0B9n",
+      "quantity": 1,
+      "unit_price": "64000"
+    },
+    "-NPZxbEJJ3U1P_h6KMt_": {
+      "order_id": "-NPZxbBVXQMyXelTAbN_",
+      "product_id": "-NPXn2UbVtMTF3FKN788",
+      "quantity": 1,
+      "unit_price": "36000"
+    },
+    "order_detail_1": {
+      "order_id": 1,
+      "product_id": 3,
+      "quantity": 2,
+      "unit_price": ""
+    },
+    "order_detail_2": {
+      "order_id": 2,
+      "product_id": 1,
+      "quantity": 5,
+      "unit_price": ""
+    },
+    "order_detail_3": {
+      "order_id": 3,
+      "product_id": 2,
+      "quantity": 1,
+      "unit_price": ""
+    }
+  },
+  "orders": {
+    "-NPXkqX5bNj65gKp9thm": {
+      "created_date": "2023-03-02T14:39:08.997Z",
+      "customer_address": "xom 3 hoa hai huong khe ha tinh",
+      "customer_email": "nguyenyen102003@gmail.com",
+      "customer_name": "Nguyễn bình yên",
+      "customer_phone_number": "0986912587",
+      "status": "Thành Công"
+    },
+    "-NPZxbBVXQMyXelTAbN_": {
+      "created_date": "2023-03-03T00:54:08.954Z",
+      "customer_address": "xom 3",
+      "customer_email": "maksimkap0q@hotmail.com",
+      "customer_name": "Nguyễn bình yên",
+      "customer_phone_number": "0986912587",
+      "status": "Thành Công"
+    },
+    "order_1": {
+      "created_date": "2022-02-04",
+      "customer_address": "VietNam",
+      "customer_email": "cus1@gmai.com",
+      "customer_name": "custom1",
+      "customer_phone_number": "001161561",
+      "id": 1,
+      "status": ""
+    },
+    "order_2": {
+      "created_date": "2022-02-05",
+      "customer_address": "UnitesSates",
+      "customer_email": "cus2@gmai.com",
+      "customer_name": "custom2",
+      "customer_phone_number": "41610651891",
+      "id": 2,
+      "status": ""
+    },
+    "order_3": {
+      "created_date": "2022-02-06",
+      "customer_address": "Singapore",
+      "customer_email": "cus3@gmai.com",
+      "customer_name": "custom3",
+      "customer_phone_number": "4894812653",
+      "id": 3,
+      "status": ""
+    }
+  },
+  "products": {
+    "-NPXF1bTPlfcwg5t0B9n": {
+      "categoryId": "-NPXCR9ovtasd90xGgn4",
+      "productDesc": "Quả chery mỹ tại Ngọc Châu fruits được vận chuyển bằng đường hàng không do vậy cuống luôn tươi, ăn giòn ngọt, là các size to hàng đảm bảo tươi ngon, có mùa vụ từ tháng 5 đến tháng 7 hàng năm. Cherry đỏ  Mỹ được đóng gói bằng các hộp carton với nhiều kích cỡ khác nhau từ 1kg đến 5kg thuận tiện cho quý khách hàng trong quá trình vận chuyển.",
+      "productImg": "https://nebula.wsimg.com/91f4653f033ea79af1eca9b4020730ca?AccessKeyId=CDBF849EA216B819FEB0&disposition=0&alloworigin=1",
+      "productName": "Cherry mỹ",
+      "productPrice": "64000"
+    },
+    "-NPXn2UbVtMTF3FKN788": {
+      "categoryId": "Select Category",
+      "productDesc": "​Nho ngón tay tại Ngọc Châu fruits được nhập khẩu từ Mỹ qua đường hàng không, thời gian vận chuyển ngắn do đó cuống nho luôn tươi, quả giòn ngọt. Nho ngón tay Moon Drop Mỹ khi xuất khẩu vào Việt Nam được đóng gói bằng các thùng xốp có trọng lượng từ 8.6 - 10kg. ",
+      "productImg": "https://nebula.wsimg.com/d9af46ddcdf895c0aed739438973aa4a?AccessKeyId=CDBF849EA216B819FEB0&disposition=0&alloworigin=1",
+      "productName": "Nho ngón tay",
+      "productPrice": "36000"
+    },
+    "-NPXnmV_qMH3FtExLvx_": {
+      "categoryId": "-NPXCR9ovtasd90xGgn4",
+      "productDesc": "Nho đỏ Mỹ tại cửa hàng Ngọc Châu fruits là loại tươi ngon nhất đang bán trên thị trường, Nho đỏ Mỹ được bao gói trong các hộp quà biếu sang trọng, đẳng cấp giúp quý khách hàng thuận tiện cho việc biếu tặng hoặc vận chuyển đi xa\n\n",
+      "productImg": "https://nebula.wsimg.com/2dac22348278b9f27773cc663f9df3bb?AccessKeyId=CDBF849EA216B819FEB0&disposition=0&alloworigin=1",
+      "productName": "Nho đỏ mỹ",
+      "productPrice": "62300"
+    },
+    "-NPXnwJzAQ_Qr8oDW3Sk": {
+      "categoryId": "Select Category",
+      "productDesc": "https://nebula.wsimg.com/ca7eeea43dbcc2d04ef801231b160f62?AccessKeyId=CDBF849EA216B819FEB0&disposition=0&alloworigin=1",
+      "productImg": "https://nebula.wsimg.com/ca7eeea43dbcc2d04ef801231b160f62?AccessKeyId=CDBF849EA216B819FEB0&disposition=0&alloworigin=1",
+      "productName": "Nho đen Mỹ",
+      "productPrice": "760000"
+    },
+    "-NPXoYimDmfE1HSYlc22": {
+      "categoryId": "-NPXCR9ovtasd90xGgn4",
+      "productDesc": "Kiwi vàng là loại hoa quả nhập khẩu cao cấp có giá trị dinh dưỡng cao loại quả này đặc biệt giàu vitamin C, kiwi vàng có hình dáng thuôn dài, màu vàng sẫm, quả trơn nhẵn, ăn khi xanh thì có vị chua nhưng khi để chín thì ăn rất ngọt,",
+      "productImg": "https://nebula.wsimg.com/c6ad23aba9a5989843f5d5b98142ccc4?AccessKeyId=CDBF849EA216B819FEB0&disposition=0&alloworigin=1",
+      "productName": "Kiwi vàng",
+      "productPrice": "120000"
+    },
+    "-NPXonm2LFVE0QqeTc6h": {
+      "categoryId": "-NPXoazd1rpadJ5EFt5V",
+      "productDesc": "Táo xanh Mỹ: 0,5 kg\nTáo Queen New Zealand:0.5kg\nNho đen không hạt Úc: 0.2 kg\nCam vàng Úc: 0.3 kg\nTáo ambrosia: 0.7 kg\n\nkích thước:35x25x35",
+      "productImg": "https://nebula.wsimg.com/bfbbed575523b4059a2950ed603f49ac?AccessKeyId=CDBF849EA216B819FEB0&disposition=0&alloworigin=1",
+      "productName": "Giỏ hoa quả nhập khẩu 1",
+      "productPrice": "450000"
+    },
+    "-NPXozaP1q_y2HtN7e9T": {
+      "categoryId": "-NPXoazd1rpadJ5EFt5V",
+      "productDesc": "​Dưa Nhật: 1.5kg\nNho đen Mỹ: 0.5 kg\n\nKiwi vàng New: 0.3kg\n\nTáo gala Mỹ:1.5kg\n",
+      "productImg": "https://nebula.wsimg.com/8be0c17eb28b4d2e9b3b4aaea118411e?AccessKeyId=CDBF849EA216B819FEB0&disposition=0&alloworigin=1",
+      "productName": "Giỏ hoa quả nhập khẩu 3",
+      "productPrice": "340000"
+    },
+    "-NPXpAXX6154D2ZcOAq3": {
+      "categoryId": "-NPXoazd1rpadJ5EFt5V",
+      "productDesc": "Táo Gala: 0.5 kg\n\nTáo Ambrosia: 0.3kg\nTáo xanh 0.5kg\nCam Úc: 1kg\nNho đen 0.3kg\nLê Hàn: 0.4 kg",
+      "productImg": "https://nebula.wsimg.com/e55d578f6f68b12dc1798ce637a14855?AccessKeyId=CDBF849EA216B819FEB0&disposition=0&alloworigin=1",
+      "productName": "Giỏ hoa quả 4",
+      "productPrice": "540000"
+    }
+  }
+}

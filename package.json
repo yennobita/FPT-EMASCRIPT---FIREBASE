@@ -1,0 +1,25 @@
+{
+  "name": "ass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/*.html",
+    "devw": "parcel watch ./src/*.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "buffer": "^5.7.1",
+    "parcel": "^2.8.3",
+    "parcel-plugin-static-files-copy": "^2.6.0"
+  },
+  "staticFiles": {
+    "staticPath": "public",
+    "watcherGlob": "**"
+  },
+  "dependencies": {
+    "axios": "^1.3.2"
+  }
+}
