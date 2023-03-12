@@ -1533,7 +1533,7 @@ var _axiosErrorJsDefault = parcelHelpers.interopDefault(_axiosErrorJs);
 // temporary hotfix to avoid circular references until AxiosURLSearchParams is refactored
 var _formDataJs = require("../platform/node/classes/FormData.js");
 var _formDataJsDefault = parcelHelpers.interopDefault(_formDataJs);
-var Buffer = require("317ff098d94c8f22").Buffer;
+var Buffer = require("13db1d44fd2d6c9d").Buffer;
 "use strict";
 /**
  * Determines if the given thing is a array or js object.
@@ -1688,15 +1688,15 @@ const predicates = (0, _utilsJsDefault.default).toFlatObject((0, _utilsJsDefault
 }
 exports.default = toFormData;
 
-},{"317ff098d94c8f22":"fCgem","../utils.js":"5By4s","../core/AxiosError.js":"3u8Tl","../platform/node/classes/FormData.js":"aFlee","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"fCgem":[function(require,module,exports) {
+},{"13db1d44fd2d6c9d":"fCgem","../utils.js":"5By4s","../core/AxiosError.js":"3u8Tl","../platform/node/classes/FormData.js":"aFlee","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"fCgem":[function(require,module,exports) {
 /*!
  * The buffer module from node.js, for the browser.
  *
  * @author   Feross Aboukhadijeh <https://feross.org>
  * @license  MIT
  */ /* eslint-disable no-proto */ "use strict";
-var base64 = require("5e03429a5a644d6b");
-var ieee754 = require("5f96b93318a55cc9");
+var base64 = require("7fbe62c8167f44db");
+var ieee754 = require("37b89fa85c5221ff");
 var customInspectSymbol = typeof Symbol === "function" && typeof Symbol["for"] === "function" // eslint-disable-line dot-notation
  ? Symbol["for"]("nodejs.util.inspect.custom") // eslint-disable-line dot-notation
  : null;
@@ -2918,7 +2918,7 @@ var hexSliceLookupTable = function() {
     return table;
 }();
 
-},{"5e03429a5a644d6b":"eIiSV","5f96b93318a55cc9":"cO95r"}],"eIiSV":[function(require,module,exports) {
+},{"7fbe62c8167f44db":"eIiSV","37b89fa85c5221ff":"cO95r"}],"eIiSV":[function(require,module,exports) {
 "use strict";
 exports.byteLength = byteLength;
 exports.toByteArray = toByteArray;

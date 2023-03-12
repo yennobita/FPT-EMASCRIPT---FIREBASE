@@ -576,7 +576,7 @@ $(document).ready(function() {
         let list = "";
         for(const key in data){
             const dev = data[key];
-            list += `<option value='${key}'>${dev.categoryName}</option>`;
+            list += `<option value='${key}'>${key} + ${dev.categoryName}</option>`;
         }
         categoryIdCrlt.append(list);
     });
